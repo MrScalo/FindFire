@@ -37,4 +37,4 @@ cargo build --release
 
 ## Usage
 
-<img src="https://raw.githubusercontent.com/MrScalo/FindFire/main/.github/findfire-input.png" width="500">
+<img src="https://raw.githubusercontent.com/MrScalo/FindFire/main/.github/findfire-example-input.png" width="500">
