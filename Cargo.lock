@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Find-aggressively"
+name = "FindFire"
 version = "0.1.0"
 dependencies = [
  "regex",
