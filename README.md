@@ -44,3 +44,5 @@ cargo build --release
 Find Fire is provided under the <a href="https://github.com/MrScalo/FindFire/blob/main/LICENSE">MIT License</a>.
 
 **Have fun!**
+
+He, He, Ferano war da. :)
