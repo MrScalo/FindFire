@@ -13,7 +13,7 @@ through the links of the given website.
 
 ## Installation
 
-Download the latest release version directly from Github.
+Download the <a href="https://github.com/MrScalo/FindFire/releases/latest">latest release</a> version directly from Github.
 
 OR
 
@@ -38,3 +38,9 @@ cargo build --release
 ## Usage
 
 <img src="https://raw.githubusercontent.com/MrScalo/FindFire/main/.github/findfire-example-input.png" width="500">
+
+## License
+
+Find Fire is provided under the <a href="https://github.com/MrScalo/FindFire/blob/main/LICENSE">MIT License</a>.
+
+**Have fun!**
